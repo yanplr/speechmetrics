@@ -20,7 +20,8 @@ setup(
 	    # line.
         #'gammatone @ git+https://ghproxy.com/https://github.com/detly/gammatone',
         'pypesq @ git+https://ghproxy.com/https://github.com/vBaiCai/python-pesq',
-        'srmrpy @ git+https://ghproxy.com/https://github.com/jfsantos/SRMRpy',
+        # 'srmrpy @ git+https://ghproxy.com/https://github.com/jfsantos/SRMRpy',
+	'srmrpy @ git+https://ghproxy.com/https://github.com/yanplr/SRMRpy',
 #         'pesq @ git+https://ghproxy.com/https://github.com/ludlows/PESQ',
 	'pesq @ git+https://ghproxy.com/https://github.com/A-d-DASARE/python-pesq',
 	    
