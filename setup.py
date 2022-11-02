@@ -21,7 +21,9 @@ setup(
         #'gammatone @ git+https://ghproxy.com/https://github.com/detly/gammatone',
         'pypesq @ git+https://ghproxy.com/https://github.com/vBaiCai/python-pesq',
         'srmrpy @ git+https://ghproxy.com/https://github.com/jfsantos/SRMRpy',
-        'pesq @ git+https://ghproxy.com/https://github.com/ludlows/PESQ',
+#         'pesq @ git+https://ghproxy.com/https://github.com/ludlows/PESQ',
+	'pesq @ git+https://ghproxy.com/https://github.com/A-d-DASARE/python-pesq',
+	    
     ],
     extras_require={
         'cpu': ['tensorflow>=2.0.0', 'librosa'],
